@@ -1,1 +1,1 @@
-# Stream_rate
+# é so abrir sua ide e rodar normalmente
